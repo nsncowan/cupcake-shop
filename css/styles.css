@@ -1,0 +1,17 @@
+body {
+  background-color: pink;
+  text-align: center;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+img {
+  max-height: 200px;
+}
+
+.best {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
